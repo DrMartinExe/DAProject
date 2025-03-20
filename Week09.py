@@ -103,6 +103,7 @@ plt.show()
 #####
 # Adding Seasonal variations and trends
 #
+# We already did thes imports
 #import pandas as pd
 #from statsmodels.tsa.holtwinters import ExponentialSmoothing
 #import matplotlib.pyplot as plt
@@ -140,4 +141,4 @@ plt.xlabel('Month')
 plt.ylabel('Total Sales')
 plt.legend()
 plt.grid(True)
-plt.show()
+plt.show() 
